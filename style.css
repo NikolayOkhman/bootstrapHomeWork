@@ -1,0 +1,32 @@
+.footer {
+   height: 100px;
+   margin: 40px 0px 0px 0px;
+}
+.header {
+   height: 100px;
+   margin: 0px 0px 40px 0px;
+}
+.navbar {
+   display: flex;
+}
+nav {
+   flex: 1;
+}
+nav ul li {
+   list-style: none;
+   display: inline-block;
+   margin-left: 30px;
+   padding-top: 20px;
+}
+
+a {
+   text-decoration: none;
+   font-size: 20px;
+   color: black;
+   font-weight: 500;
+}
+.icons {
+   height: 50px;
+   width: 50px;
+   margin: 25px;
+}
